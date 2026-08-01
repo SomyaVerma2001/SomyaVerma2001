@@ -1,89 +1,134 @@
 <p align="center">
-  <img src="./assets/somya-haveli-research-banner.png" alt="Somya Verma — Catalysts, Data, Fuels" width="100%" />
+  <img src="./assets/somya-haveli-research-banner-v2.png" alt="Catalysts, Data, Fuels — a Rajasthani research atelier" width="100%" />
 </p>
 
-<p align="center">
-  <strong>PhD researcher in Materials Science & Engineering at Nanyang Technological University</strong><br />
-  Building AI-guided catalysts for cleaner fuels at the meeting point of experiments, materials informatics, and probabilistic learning.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://somyaverma2001.github.io/somya-verma-research-portfolio/"><strong>Research Portfolio</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.sciencedirect.com/science/article/pii/S2352492825016241"><strong>Featured Publication</strong></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:SOMYA001@e.ntu.edu.sg"><strong>Contact</strong></a>
-</p>
+### A research dashboard for catalysts, data & cleaner fuels
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CO₂_to_Fuels-742B32?style=flat-square&labelColor=2F1711" alt="CO2 to fuels" />
-  <img src="https://img.shields.io/badge/Bayesian_Optimization-B87324?style=flat-square&labelColor=2F1711" alt="Bayesian optimization" />
-  <img src="https://img.shields.io/badge/Materials_Informatics-214B58?style=flat-square&labelColor=2F1711" alt="Materials informatics" />
-  <img src="https://img.shields.io/badge/Experimental_Catalysis-315B3B?style=flat-square&labelColor=2F1711" alt="Experimental catalysis" />
-</p>
+PhD researcher in **Materials Science & Engineering at Nanyang Technological University**<br />
+Designing AI-guided catalysts where experiments, materials informatics, and probabilistic learning meet.
 
-<br />
+[![Enter the research portfolio](https://img.shields.io/badge/ENTER_THE_PORTFOLIO-7A2E34?style=for-the-badge&logo=safari&logoColor=F6E7C8)](https://somyaverma2001.github.io/somya-verma-research-portfolio/)
+[![Read the featured paper](https://img.shields.io/badge/FEATURED_PAPER-B8752E?style=for-the-badge&logo=readthedocs&logoColor=FFF3DB)](https://www.sciencedirect.com/science/article/pii/S2352492825016241)
+[![Write to me](https://img.shields.io/badge/WRITE_TO_ME-1F4A45?style=for-the-badge&logo=gmail&logoColor=F6E7C8)](mailto:SOMYA001@e.ntu.edu.sg)
 
-## The three rooms of my research
+`CO₂ → FUELS` · `BAYESIAN OPTIMISATION` · `MATERIALS INFORMATICS` · `EXPERIMENTAL CATALYSIS`
+
+◆ ───────────── ✦ ───────────── ◆
+
+</div>
+
+## The dashboard
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ Now</h3>
+      <p><strong>Singapore · PhD research</strong></p>
+      <p>Connecting catalyst synthesis and reactor evidence with uncertainty-aware learning.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ North star</h3>
+      <p><strong>Every experiment should sharpen the next.</strong></p>
+      <p>Models guide the search; mechanisms and physical evidence keep it honest.</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><strong>3</strong><br /><sub>RESEARCH ENVIRONMENTS</sub></td>
+    <td align="center"><strong>CO₂ → FUELS</strong><br /><sub>APPLICATION</sub></td>
+    <td align="center"><strong>BAYESIAN</strong><br /><sub>SEARCH STRATEGY</sub></td>
+    <td align="center"><strong>EXPERIMENT + AI</strong><br /><sub>WORKING LANGUAGE</sub></td>
+  </tr>
+</table>
+
+## Three rooms of research
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <h3>🏛️ Catalysts</h3>
       <p>Direct Joule synthesis, Fe-based catalyst reconstruction, oxide–carbide interfaces, and CO₂ hydrogenation.</p>
+      <sub>SYNTHESIS · STRUCTURE · MECHANISM</sub>
     </td>
     <td width="33%" valign="top">
       <h3>📐 Data</h3>
-      <p>Multi-task Gaussian processes, Bayesian optimisation, uncertainty-aware experiments, and materials descriptors.</p>
+      <p>Multi-task Gaussian processes, Bayesian optimisation, materials descriptors, and uncertainty-aware experiments.</p>
+      <sub>MODELS · UNCERTAINTY · DECISIONS</sub>
     </td>
     <td width="33%" valign="top">
       <h3>✦ Fuels</h3>
-      <p>Turning CO₂ into gasoline- and jet-fuel-range hydrocarbons through catalyst design informed by mechanism.</p>
+      <p>Turning CO₂ into gasoline- and jet-fuel-range hydrocarbons through mechanism-informed catalyst design.</p>
+      <sub>CARBON · CONVERSION · CLEANER FLIGHT</sub>
     </td>
   </tr>
 </table>
 
-My work asks a practical question: **how can every experiment teach the next experiment what to do?** I combine synthesis and reactor evidence with machine learning—not to replace physical insight, but to make discovery more deliberate.
+## Featured doors
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🪷 <a href="https://somyaverma2001.github.io/somya-verma-research-portfolio/">Research portfolio →</a></h3>
+      <p>A visual record of my work across AI-guided catalysis, CO₂ conversion, high-entropy alloys, and cleaner-flight fuel pathways.</p>
+      <p><code>PROJECTS</code> <code>PUBLICATIONS</code> <code>RESEARCH STORY</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📜 <a href="https://www.sciencedirect.com/science/article/pii/S2352492825016241">Featured publication →</a></h3>
+      <p><em>Enhanced modeling of electronic structure–mechanical property relationships</em> — DOS-informed, data-driven analysis of high-entropy alloys.</p>
+      <p><code>HEAs</code> <code>ELECTRONIC STRUCTURE</code> <code>ML</code></p>
+    </td>
+  </tr>
+</table>
 
 ## Research courtyard
 
-| Research environment | Focus |
-|---|---|
-| **AxCIS Lab · UC Berkeley / BEARS** | AI for exploration of catalyst inorganic surfaces |
-| **Accelerated Catalyst Development Platform · A*STAR ISCE²** | High-throughput and data-guided catalyst development |
-| **HIP Lab · NTU Singapore** | Catalysis, materials, and process–structure relationships |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>AxCIS Lab</strong><br />
+      <sub>UC BERKELEY / BEARS</sub>
+      <p>AI for exploration of catalyst inorganic surfaces.</p>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Accelerated Catalyst Development Platform</strong><br />
+      <sub>A*STAR ISCE²</sub>
+      <p>High-throughput and data-guided catalyst development.</p>
+    </td>
+    <td width="33%" valign="top">
+      <strong>HIP Lab</strong><br />
+      <sub>NTU SINGAPORE</sub>
+      <p>Catalysis, materials, and process–structure relationships.</p>
+    </td>
+  </tr>
+</table>
 
-## Selected work
+## Side quests
 
-### [Research portfolio →](https://somyaverma2001.github.io/somya-verma-research-portfolio/)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>🧘 <a href="https://somyaverma2001.github.io/form30-workout-assistant/">Somsy</a></strong>
+      <p>A hands-free, 30-day private movement ritual.</p>
+    </td>
+    <td width="33%" valign="top">
+      <strong>📚 <a href="https://somyaverma2001.github.io/cat-prep-hub/">CAT Prep Hub</a></strong>
+      <p>An offline study system with persistent practice progress.</p>
+    </td>
+    <td width="33%" valign="top">
+      <strong>🃏 <a href="https://github.com/SomyaVerma2001/Uno---No-Mercy">UNO — No Mercy</a></strong>
+      <p>A playful card-game side build.</p>
+    </td>
+  </tr>
+</table>
 
-A visual record of my work on AI-guided catalysis, CO₂ conversion, high-entropy alloys, and cleaner-flight fuel pathways.
+<div align="center">
 
-### [Enhanced modeling of electronic structure–mechanical property relationships →](https://www.sciencedirect.com/science/article/pii/S2352492825016241)
+◆ ───────────── ✦ ───────────── ◆
 
-Featured publication in *Materials Today Communications* on DOS-informed, data-driven analysis of high-entropy alloys.
+<em>Experimental evidence first. Models with humility. Cleaner trajectories ahead.</em>
 
-<details>
-  <summary><strong>Beyond the lab — small tools and personal experiments</strong></summary>
-  <br />
-  <ul>
-    <li><a href="https://somyaverma2001.github.io/form30-workout-assistant/"><strong>Somsy</strong></a> — a hands-free, 30-day private workout ritual.</li>
-    <li><a href="https://somyaverma2001.github.io/cat-prep-hub/"><strong>CAT Prep Hub</strong></a> — an offline study system with persistent practice progress.</li>
-    <li><a href="https://github.com/SomyaVerma2001/Uno---No-Mercy"><strong>UNO — No Mercy</strong></a> — a playful side build.</li>
-  </ul>
-</details>
-
-## Current coordinates
-
-```text
-Singapore  →  PhD, Materials Science & Engineering
-Question   →  Can uncertainty choose the next useful experiment?
-Method     →  Synthesis + characterization + probabilistic learning
-Direction  →  Catalysts for lower-carbon fuels
-```
-
-<p align="center">
-  <em>Experimental evidence first. Models with humility. Cleaner trajectories ahead.</em>
-</p>
-
-<p align="center">𑁍</p>
+</div>
