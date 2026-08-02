@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="./assets/somya-haveli-research-banner-v2.png" alt="Catalysts, Data, Fuels — a Rajasthani research atelier" width="100%" />
-</p>
-
 <div align="center">
 
-### A research dashboard for catalysts, data & cleaner fuels
+# 𑁍 Catalysts · Data · Cleaner Fuels 𑁍
+
+### A research dashboard shaped like a modern Indian atelier
 
 PhD researcher in **Materials Science & Engineering at Nanyang Technological University**<br />
 Designing AI-guided catalysts where experiments, materials informatics, and probabilistic learning meet.
@@ -124,6 +122,20 @@ Designing AI-guided catalysts where experiments, materials informatics, and prob
     </td>
   </tr>
 </table>
+
+## The contribution serpent
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SomyaVerma2001/SomyaVerma2001/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SomyaVerma2001/SomyaVerma2001/output/github-contribution-grid-snake.svg" />
+  <img alt="An animated snake moving through Somya's GitHub contribution grid" src="https://raw.githubusercontent.com/SomyaVerma2001/SomyaVerma2001/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<sub>Refreshed every day from the live contribution calendar.</sub>
+
+</div>
 
 <div align="center">
 
